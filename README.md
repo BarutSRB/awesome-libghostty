@@ -7,14 +7,13 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 
 ## Projects
 
+- [Ghostty](https://github.com/ghostty-org/ghostty) - Reference implementation and home of libghostty.
 - [ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility.
-- [libghostty](https://github.com/ghostty-org/ghostty) - Reference implementation and home of libghostty.
 - [Mux](https://github.com/coder/mux) - Desktop and browser app for isolated, parallel agentic development.
 
 ## Resources
 
-- [Ghostty](https://ghostty.org) - Official project site.
-- [Ghostty Docs](https://ghostty.org/docs) - Documentation and guides.
+- [libghostty API Reference](https://libghostty.tip.ghostty.org/index.html) - API reference documentation for libghostty.
 
 ## Contributing
 
