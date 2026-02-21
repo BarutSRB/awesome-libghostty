@@ -4,11 +4,11 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 
 ## Contents
 
-- [Projects](#projects)
-- [Integrations](#integrations)
+- [Open Source](#open-source)
+- [Closed Source](#closed-source)
 - [Resources](#resources)
 
-## Projects
+## Open Source
 
 Open-source projects built with or on top of libghostty.
 
@@ -22,9 +22,9 @@ Open-source projects built with or on top of libghostty.
 - [Supacode](https://github.com/supabitapp/supacode) - An open-source native macOS command center for running coding agents in parallel, powered by libghostty.
 - [Zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes, using libghostty-vt for terminal state restore.
 
-## Integrations
+## Closed Source
 
-Products and applications that embed libghostty.
+Closed-source products and applications that embed libghostty.
 
 - [OrbStack](https://orbstack.dev/) - Fast, lightweight Docker & Linux on macOS, with a built-in Ghostty-powered terminal.
 - [Commander](https://commanderai.app/) - A native macOS AI workspace for coding agents with diff review, git workflow, and worktree management.
